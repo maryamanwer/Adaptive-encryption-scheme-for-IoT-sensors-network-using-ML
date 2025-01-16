@@ -59,4 +59,4 @@ plt.show()
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please contact [Your Name] at [Your Email].
+For any inquiries, please contact maryam.anwer2@gmail.com.
